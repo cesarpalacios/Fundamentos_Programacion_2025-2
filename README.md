@@ -113,7 +113,7 @@ Entregable_ApellidoNombre.zip
 | **Orden y Estilo** | 10% | Código modular, uso de funciones, variables con nombres descriptivos. |
 | **Informe de Ingeniería** | 20% | Respuestas técnicas precisas que demuestran dominio total del código escrito. |
 
-## ## 7. FECHA MÁXIMA DE ENTREGA
+## 7. FECHA MÁXIMA DE ENTREGA
 
 * **Fecha Límite:** 12 de Diciembre de 2025.
 * **Hora:** Hasta las 23:59 (Hora del servidor de la plataforma).
