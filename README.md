@@ -103,7 +103,7 @@ Entregable_ApellidoNombre.zip
     └── sala.txt
 ```
 
-## 5. CRITERIOS DE EVALUACIÓN
+## 6. CRITERIOS DE EVALUACIÓN
 
 | Criterio | Porcentaje | Descripción |
 | :--- | :---: | :--- |
@@ -112,3 +112,9 @@ Entregable_ApellidoNombre.zip
 | **Funcionalidad General** | 15% | El menú funciona, las búsquedas son correctas y no hay errores de ejecución. |
 | **Orden y Estilo** | 10% | Código modular, uso de funciones, variables con nombres descriptivos. |
 | **Informe de Ingeniería** | 20% | Respuestas técnicas precisas que demuestran dominio total del código escrito. |
+
+## ## 7. FECHA MÁXIMA DE ENTREGA
+
+* **Fecha Límite:** 12 de Diciembre de 2025.
+* **Hora:** Hasta las 23:59 (Hora del servidor de la plataforma).
+* **Política de Retrasos:** Dado que el semestre finaliza inmediatamente después de esta fecha, **NO se aceptarán entregas extemporáneas** ni envíos por correo electrónico. Se recomienda subir el archivo al menos 2 horas antes para evitar inconvenientes técnicos de último momento.
