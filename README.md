@@ -99,7 +99,7 @@ Entregable_ApellidoNombre.zip
 │
 └── Carpeta_Codigo_Fuente/      <-- (Carpeta con el programa)
     ├── main.cpp
-    ├── funciones.cpp
+    ├── funciones.h
     └── sala.txt
 ```
 
